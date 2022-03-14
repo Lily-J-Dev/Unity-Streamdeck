@@ -1,0 +1,9 @@
+E:\NEWPC_BACKUP\foundry\Repos\csw-mfa\PacketData\PacketData\bin\Debug\netstandard2.0\PacketData.deps.json
+E:\NEWPC_BACKUP\foundry\Repos\csw-mfa\PacketData\PacketData\bin\Debug\netstandard2.0\PacketData.dll
+E:\NEWPC_BACKUP\foundry\Repos\csw-mfa\PacketData\PacketData\bin\Debug\netstandard2.0\PacketData.pdb
+E:\NEWPC_BACKUP\foundry\Repos\csw-mfa\PacketData\PacketData\obj\Debug\netstandard2.0\PacketData.csproj.CoreCompileInputs.cache
+E:\NEWPC_BACKUP\foundry\Repos\csw-mfa\PacketData\PacketData\obj\Debug\netstandard2.0\PacketData.AssemblyInfoInputs.cache
+E:\NEWPC_BACKUP\foundry\Repos\csw-mfa\PacketData\PacketData\obj\Debug\netstandard2.0\PacketData.AssemblyInfo.cs
+E:\NEWPC_BACKUP\foundry\Repos\csw-mfa\PacketData\PacketData\obj\Debug\netstandard2.0\PacketData.dll
+E:\NEWPC_BACKUP\foundry\Repos\csw-mfa\PacketData\PacketData\obj\Debug\netstandard2.0\PacketData.pdb
+E:\NEWPC_BACKUP\foundry\Repos\csw-mfa\PacketData\PacketData\obj\Debug\netstandard2.0\PacketData.csprojAssemblyReference.cache

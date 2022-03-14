@@ -1,0 +1,25 @@
+C:\Users\Foundry1\Desktop\Github Repos\csw-mfa\StreamDeckClient\StreamDeckClient\bin\Debug\netstandard2.0\StreamDeckClient.deps.json
+C:\Users\Foundry1\Desktop\Github Repos\csw-mfa\StreamDeckClient\StreamDeckClient\bin\Debug\netstandard2.0\StreamDeckClient.dll
+C:\Users\Foundry1\Desktop\Github Repos\csw-mfa\StreamDeckClient\StreamDeckClient\obj\Debug\netstandard2.0\StreamDeckClient.AssemblyInfoInputs.cache
+C:\Users\Foundry1\Desktop\Github Repos\csw-mfa\StreamDeckClient\StreamDeckClient\obj\Debug\netstandard2.0\StreamDeckClient.AssemblyInfo.cs
+C:\Users\Foundry1\Desktop\Github Repos\csw-mfa\StreamDeckClient\StreamDeckClient\bin\Debug\netstandard2.0\StreamDeckClient.pdb
+C:\Users\Foundry1\Desktop\Github Repos\csw-mfa\StreamDeckClient\StreamDeckClient\obj\Debug\netstandard2.0\StreamDeckClient.dll
+C:\Users\Foundry1\Desktop\Github Repos\csw-mfa\StreamDeckClient\StreamDeckClient\obj\Debug\netstandard2.0\StreamDeckClient.pdb
+E:\NEWPC_BACKUP\foundry\csw-mfa\StreamDeckClient\StreamDeckClient\bin\Debug\netstandard2.0\StreamDeckClient.deps.json
+E:\NEWPC_BACKUP\foundry\csw-mfa\StreamDeckClient\StreamDeckClient\bin\Debug\netstandard2.0\StreamDeckClient.dll
+E:\NEWPC_BACKUP\foundry\csw-mfa\StreamDeckClient\StreamDeckClient\bin\Debug\netstandard2.0\StreamDeckClient.pdb
+E:\NEWPC_BACKUP\foundry\csw-mfa\StreamDeckClient\StreamDeckClient\obj\Debug\netstandard2.0\StreamDeckClient.csprojAssemblyReference.cache
+E:\NEWPC_BACKUP\foundry\csw-mfa\StreamDeckClient\StreamDeckClient\obj\Debug\netstandard2.0\StreamDeckClient.AssemblyInfoInputs.cache
+E:\NEWPC_BACKUP\foundry\csw-mfa\StreamDeckClient\StreamDeckClient\obj\Debug\netstandard2.0\StreamDeckClient.AssemblyInfo.cs
+E:\NEWPC_BACKUP\foundry\csw-mfa\StreamDeckClient\StreamDeckClient\obj\Debug\netstandard2.0\StreamDeckClient.dll
+E:\NEWPC_BACKUP\foundry\csw-mfa\StreamDeckClient\StreamDeckClient\obj\Debug\netstandard2.0\StreamDeckClient.pdb
+E:\NEWPC_BACKUP\foundry\csw-mfa\StreamDeckClient\StreamDeckClient\obj\Debug\netstandard2.0\StreamDeckClient.csproj.CoreCompileInputs.cache
+E:\NEWPC_BACKUP\foundry\Repos\csw-mfa\StreamDeckClient\StreamDeckClient\bin\Debug\netstandard2.0\StreamDeckClient.deps.json
+E:\NEWPC_BACKUP\foundry\Repos\csw-mfa\StreamDeckClient\StreamDeckClient\bin\Debug\netstandard2.0\StreamDeckClient.dll
+E:\NEWPC_BACKUP\foundry\Repos\csw-mfa\StreamDeckClient\StreamDeckClient\bin\Debug\netstandard2.0\StreamDeckClient.pdb
+E:\NEWPC_BACKUP\foundry\Repos\csw-mfa\StreamDeckClient\StreamDeckClient\obj\Debug\netstandard2.0\StreamDeckClient.csprojAssemblyReference.cache
+E:\NEWPC_BACKUP\foundry\Repos\csw-mfa\StreamDeckClient\StreamDeckClient\obj\Debug\netstandard2.0\StreamDeckClient.csproj.CoreCompileInputs.cache
+E:\NEWPC_BACKUP\foundry\Repos\csw-mfa\StreamDeckClient\StreamDeckClient\obj\Debug\netstandard2.0\StreamDeckClient.AssemblyInfoInputs.cache
+E:\NEWPC_BACKUP\foundry\Repos\csw-mfa\StreamDeckClient\StreamDeckClient\obj\Debug\netstandard2.0\StreamDeckClient.AssemblyInfo.cs
+E:\NEWPC_BACKUP\foundry\Repos\csw-mfa\StreamDeckClient\StreamDeckClient\obj\Debug\netstandard2.0\StreamDeckClient.dll
+E:\NEWPC_BACKUP\foundry\Repos\csw-mfa\StreamDeckClient\StreamDeckClient\obj\Debug\netstandard2.0\StreamDeckClient.pdb
